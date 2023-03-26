@@ -1,0 +1,15 @@
+.card{
+    padding:10px;
+    margin:10px;
+    width: 200px;
+    border:1px solid black;
+    border-radius: 5px;
+    background-color:#e0ebeb;
+    text-align: center;
+}
+.id{
+    font-size: 16px;
+}
+.name{
+    font-weight: bold;
+}
